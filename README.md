@@ -48,3 +48,12 @@ Anything over 75% code coverage is considered acceptable.
   * Note: PRs will never be merged, they are just used for review.
 
 Tip: make sure to include a requirements.txt
+
+### Operational Instructions of completed project:
+Requires installation of Python 2.7, Bottle 0.12.9
+Invocation: 'python movie_script.py'
+Server listens onlocalhost:8080
+
+The test case module is: unitest.py
+Invocation: python -m unittest unitest.TestRestAPIMethods
+
