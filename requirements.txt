@@ -1,0 +1,14 @@
+Challenge Requirements
+
+The RESTful web API shall be implemented using the Python 2.7 programming language.
+The RESTful web API shall be hosted using the Bottle web server.
+The web application shall support the following methods:
+
+    GET: Return a list of Movies
+    POST: Add a movie
+    PUT: Update movie details
+    DELETE: Delete a movie
+
+The responses shall be hard coded (no data back end needed).
+The RESTful API shall maintain the following data structure:
+	[Movie Title: Release Date, Production Company] ...
